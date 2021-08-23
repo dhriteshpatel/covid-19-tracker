@@ -1,0 +1,19 @@
+.header{
+    display: grid;
+    place-content: end;
+    padding:0;
+    margin: 0;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius:5px;
+    background-color: steelblue;
+}
+
+.datepicker{
+    border: 2px solid black;
+    outline: none;
+    padding:5px;
+    border-radius:5px;
+    cursor: pointer;
+}
+

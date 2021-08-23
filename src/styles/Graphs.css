@@ -1,0 +1,39 @@
+.graphtitle{
+    font-weight: bold;
+    text-align: center;
+}
+
+.graphs{
+    display: flex;
+    flex-direction: column;
+    margin-top: 3%;
+}
+
+
+.graphpresentation{
+    text-align: center;
+    font-weight: 600;
+}
+
+.statewise{
+    font-weight: 600;
+    float: left
+}
+
+.districtwise{
+    font-weight: 600;
+    float: right
+}
+
+.maingraphs{
+    display:flex;   
+    margin-top:10px;
+    justify-content:space-around
+}
+
+@media only screen and (max-width: 1400px){
+    .maingraphs{
+        display:flex;
+        flex-direction:column;
+    }
+}

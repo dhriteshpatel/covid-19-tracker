@@ -1,0 +1,25 @@
+.state{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom   : 2px solid black;
+    border-radius:5px;
+}
+
+.selectstates{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(124, 124, 182);
+    border: 1px solid black;
+    padding: 5px;
+}
+.item{
+    margin-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+input[type="checkbox"]{
+    height:40px;
+}
+

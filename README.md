@@ -1,6 +1,9 @@
-Deployed Site Url
+Deployed Site Url ==>
 
 https://appscripassignment.netlify.app/
+
+Github link ==>
+https://github.com/dhriteshpatel/covid-19-tracker
 
 Libraries used===
 
